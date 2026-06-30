@@ -2,7 +2,7 @@
 
 **An NLP-driven analysis of Caseware customer reviews across G2, Capterra, Software Advice, and Reddit to surface sentiment trends, pain points, and actionable product insights for the Professional Services team.**
 
-🔗 Live App: customer-voice-nlp.streamlit.app
+🔗 Live App: https://caseware-customer-voice.streamlit.app/
 
 > Built as a portfolio project by Hammad Mirza — April 2026
 
