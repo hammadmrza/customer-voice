@@ -1,4 +1,4 @@
-# 📊 Caseware Customer Voice — NLP Sentiment & Pain Point Analysis
+# Customer Voice — NLP Sentiment & Pain Point Analysis
 
 **An NLP-driven analysis of Caseware customer reviews across G2, Capterra, Software Advice, and Reddit to surface sentiment trends, pain points, and actionable product insights for the Professional Services team.**
 
