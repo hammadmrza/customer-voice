@@ -69,4 +69,3 @@ This is an independent portfolio project. Data was collected from publicly avail
 ---
 
 **Author:** Hammad Mirza
-**Date:** April 2026
